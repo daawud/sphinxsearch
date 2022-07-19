@@ -1,5 +1,5 @@
 <?php 
-namespace daawud\SphinxSearch;
+namespace Daawud\SphinxSearch;
 
 use Illuminate\Support\ServiceProvider;
 

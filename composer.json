@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "daawud\\SphinxSearch\\": "src/"
+      "Daawud\\SphinxSearch\\": "src/daawud/SphinxSearch"
     }
   },
   "minimum-stability": "dev"
