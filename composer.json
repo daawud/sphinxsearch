@@ -25,5 +25,11 @@
       "Daawud\\SphinxSearch\\": "src/daawud/SphinxSearch"
     }
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/daawud/sphinxsearch"
+    }
+  ],
   "minimum-stability": "dev"
 }
