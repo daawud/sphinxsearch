@@ -24,5 +24,6 @@
     "psr-4": {
       "daawud\\SphinxSearch\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
