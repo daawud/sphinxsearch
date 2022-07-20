@@ -23,7 +23,7 @@ Run in your console `composer update` command to pull down the latest version of
 Or just run this in console:
 
 ```php
-composer require daawud/sphinxsearch:dev-master
+composer require daawud/sphinxsearch
 ```
 
 After updating composer, add the ServiceProvider to the "providers" array in config/app.php:
