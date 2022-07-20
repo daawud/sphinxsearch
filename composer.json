@@ -17,7 +17,7 @@
   "require": {
     "php": "^8.0",
     "illuminate/support": "^8.0",
-    "gigablah/sphinxphp": "2.0.8"
+    "gigablah/sphinxphp": "^2.0.8"
   },
   "autoload": {
     "psr-4": {
