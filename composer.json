@@ -29,6 +29,5 @@
       "type": "vcs",
       "url": "https://github.com/daawud/sphinxsearch.git"
     }
-  ],
-  "minimum-stability": "dev"
+  ]
 }
